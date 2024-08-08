@@ -1,49 +1,169 @@
 {
-    "Panaderia": {
-        "Pan de Bono": 700,
-        "Pan de Queso": 800,
-        "Pan Cascarita": 500,
-        "Pan de Yuca": 800,
-        "Calentano": 700,
-        "Rollito de Sal": 900,
-        "Pan Integral": 700,
-        "Pan relleno de Arequipe": 1150,
-        "Pan con Salchicha": 1300,
-        "Pan recubierto de Chocolate": 1200
-    },
-    "Pasteleria": {
-        "Pastel de Vainilla": 5000,
-        "Pastel de Chocolate": 5500,
-        "Pastel de bodas": 10000,
-        "Glaseado de Vainilla": 3000,
-        "Glaseado de Chocolate": 3500,
-        "Pastel de Arequipe": 5700,
-        "Pastel de Oreo": 7000,
-        "Postre de Limon": 4300,
-        "Postre de Vainilla": 4000,
-        "Postre de Tres Leches": 4500
-    },
-    "Bebidas": {
-        "Coca-Cola": 3000,
-        "Pepsi": 2900,
-        "Red-Bull": 4000,
-        "Gatorade": 3700,
-        "Budweiser": 3200,
-        "Hit": 2500,
-        "Pony-Malta": 2300,
-        "Sprite": 3200,
-        "Monster": 3000,
-        "Tropicana": 2400,
-        "-Promociones-": "Algunas promociones de la seccion de Bebidas",
-        "1 Pan con Salchicha y 1 Pony Malta": 3000,
-        "1 Postre de Oreo y 1 Budweiser": 9000
-    },
-    "Apartado de promociones": {
-        "6 Panes Integrales": 4000,
-        "5 Panes recubiertos de Chocolate": 5500,
-        "3 Pasteles de Vainilla": 13000,
-        "4 Postres de Oreo": 25000,
-        "1 Pan con Salchicha y 1 Pony Malta": 3000,
-        "1 Postre de Oreo y 1 Budweiser": 9000
-    }
+    "Panaderia": [
+        
+        {"producto":"Pan de Bono",
+         "cantidad":"10",
+         "precio":"500"},
+
+        {"producto":"Pan de Queso",
+         "cantidad":"10",
+         "precio":"800"},
+         
+        {"producto":"Pan Cascarita",
+        "cantidad":"10",
+        "precio":"500"},
+
+        {"producto":"Pan de Yuca",
+        "cantidad":"10",
+        "precio":"800"},
+
+        {"producto":"Calentano",
+        "cantidad":"10",
+        "precio":"700"},
+
+        {"producto":"Rollito de Sal",
+        "cantidad":"10",
+        "precio":"900"},
+
+        {"producto":"Pan Integral",
+        "cantidad":"10",
+        "precio":"700"},
+
+        {"producto":"Pan relleno de Arequipe",
+        "cantidad":"10",
+        "precio":"1150"},
+
+        {"producto":"Pan con Salchicha",
+        "cantidad":"10",
+        "precio":"1300"},
+        
+        {"producto":"Pan recubierto de Chocolate",
+        "cantidad":"10",
+        "precio":"1200"} 
+    ],
+      "Pasteleria":[
+
+        {"producto":"Pastel de Vainilla",
+        "cantidad":"10",
+        "precio":"5000"},
+
+        {"producto":"Pastel de Chocolate",
+        "cantidad":"10",
+        "precio":"5500"},
+
+        {"producto":"Pastel de bodas",
+        "cantidad":"10",
+        "precio":"10000"},
+
+        {"producto":"Glaseado de Vainilla",
+        "cantidad":"10",
+        "precio":"3000"},
+
+        {"producto":"Glaseado de Chocolate",
+        "cantidad":"10",
+        "precio":"3500"},
+
+        {"producto":"Pastel de Arequipe",
+        "cantidad":"10",
+        "precio":"5700"},
+
+        {"producto":"Pastel de Oreo",
+        "cantidad":"10",
+        "precio":"7000"},
+
+        {"producto":"Postre de Limon",
+        "cantidad":"10",
+        "precio":"4300"},
+        
+        {"producto":"Postre de Vainilla",
+        "cantidad":"10",
+        "precio":"4000"},
+
+        {"producto":"Postre de Tres Leches",
+        "cantidad":"10",
+        "precio":"4500"}
+    
+    ],
+
+
+    "Bebidas": [
+
+        {"producto":"Coca-Cola",
+        "cantidad":"10",
+        "precio":"3000"},
+
+        {"producto":"Pepsi",
+        "cantidad":"10",
+        "precio":"2900"},
+
+        {"producto":"Red-Bull",
+        "cantidad":"10",
+        "precio":"4000"},
+
+        {"producto":"Gatorade",
+        "cantidad":"10",
+        "precio":"3000"},
+
+        {"producto":"Budweiser",
+        "cantidad":"10",
+        "precio":"3200"},
+
+        {"producto":"Hit",
+        "cantidad":"10",
+        "precio":"2500"},
+
+        {"producto":"Pony-Malta",
+        "cantidad":"10",
+        "precio":"2300"},
+
+        {"producto":"Sprite",
+        "cantidad":"10",
+        "precio":"3200"},
+
+        {"producto":"Monster",
+        "cantidad":"10",
+        "precio":"3000"},
+
+        {"producto":"Tropicana",
+        "cantidad":"10",
+        "precio":"2400"},
+
+        {"producto":"-Promociones-",
+        "cantidad":"10",
+        "precio":"Algunas promociones de la seccion de Bebidas"},
+        
+        {"producto":"1 Pan con Salchicha y 1 Pony Malta",
+        "cantidad":"10",
+        "precio":"3000"},
+
+        {"producto":"Postre de Oreo y 1 Budweiser",
+        "cantidad":"10",
+        "precio":"9000"}
+    ],
+    "Apartado de promociones":[
+
+        {"producto":"6 Panes Integrales",
+        "cantidad":"10",
+        "precio":"4000"},
+
+        {"producto":"5 Panes recubiertos de Chocolate",
+        "cantidad":"10",
+        "precio":"5500"},
+
+        {"producto":"3 Pasteles de Vainilla",
+        "cantidad":"10",
+        "precio":"13000"},
+
+        {"producto":"4 Postres de Oreo",
+        "cantidad":"10",
+        "precio":"25000"},
+
+        {"producto":"1 Pan con Salchicha y 1 Pony Malta",
+        "cantidad":"10",
+        "precio":"3000"},
+
+        {"producto":"1 Postre de Oreo y 1 Budweiser",
+        "cantidad":"10",
+        "precio":"9000"}
+    ]
 }

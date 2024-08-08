@@ -1,6 +1,52 @@
 [
-    {"id":1,
-    
-
+    {
+        "id": 1,
+        "nombre": "pan de bono",
+        "apellido": "guerrero ortega",
+        "fecha": "pan de bono",
+        "contacto": "pan de bono",
+        "producto": "pan de bono",
+        "cantidad": "pan de bono",
+        "precio": "pan de bono"
+    },
+    {
+        "id": 2,
+        "nombre": "jhon alexander",
+        "apellido": "martinez llanes",
+        "fecha": "10-8-2024",
+        "contacto": "322900000",
+        "producto": "cocacola",
+        "cantidad": "20",
+        "precio": "150000"
+    },
+    {
+        "id": 3,
+        "nombre": "danna gomez",
+        "apellido": "alarcon rojas",
+        "fecha": "07-7-2024",
+        "contacto": "32223333",
+        "producto": "pan de bono",
+        "cantidad": "15",
+        "precio": "10000"
+    },
+    {
+        "id": 4,
+        "nombre": "franklin leonardo",
+        "apellido": "guerrero guerrero",
+        "fecha": "08-8-2024",
+        "contacto": "32111111",
+        "producto": "pan de concha",
+        "cantidad": "10",
+        "precio": "1000"
+    },
+    {
+        "id": 5,
+        "nombre": "sebastian juan",
+        "apellido": "contreras serrano",
+        "fecha": "09-9-2024",
+        "contacto": "330303039",
+        "producto": "rollito de sal",
+        "cantidad": "20",
+        "precio": "120000"
     }
 ]
