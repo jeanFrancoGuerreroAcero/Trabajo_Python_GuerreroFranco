@@ -18,7 +18,7 @@ Se realizo un ejercicio en donde se debia realizar un software para una panaderi
 
 ## Estructura del proyecto
 
-![alt text](<Captura de pantalla 2024-08-08 022636.png>)
+![alt text](<WhatsApp Image 2024-08-08 at 2.30.51 AM.jpeg>)
 
 ## Caracteristicas
 1. cuenta con 3 json: 
